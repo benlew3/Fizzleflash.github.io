@@ -2,14 +2,21 @@ header{
   display: flex;
   justify-content: center;
   background-color: #FFFF85;
-  margin: 0 1vw;
+  margin: 0;
+  font-size: 18px;
 }
 #title{
   font-family: 'Bungee Inline', cursive;
   font-size: 30px;
   width: 45vw;
-}AAS
+}
 li{
   display:inline-block;
   margin: 10px;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #225;
 }
