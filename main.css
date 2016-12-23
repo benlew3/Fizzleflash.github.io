@@ -1,15 +1,29 @@
+body{
+  margin:0;
+  padding:0;
+  background-color: blue;
+}
 header{
   display: flex;
   justify-content: center;
   background-color: #FFFF85;
-  margin: 0 1vw;
+  margin: 0;
 }
 #title{
   font-family: 'Bungee Inline', cursive;
   font-size: 30px;
   width: 45vw;
-}AAS
+  text-shadow: -4px -3px 2px #C3C4C3;
+}
+#title1{
+  color:#00BCCC;
+  text-shadow: 2px -3px 2px blue;
+}
 li{
   display:inline-block;
   margin: 10px;
+}
+.links{
+  display: flex;
+  font-family: 'Arimo', sans-serif;
 }
