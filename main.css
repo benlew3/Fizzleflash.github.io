@@ -8,24 +8,39 @@ header{
   justify-content: center;
   background-color: #FFFF85;
   margin: 0;
+<<<<<<< HEAD
+  font-size: 18px;
+=======
   width: 100vw;
   position: fixed;
+>>>>>>> cc9af377cf15aba41ce2775c59a7147ac26dd8ab
 }
 #title{
   font-family: 'Bungee Inline', cursive;
   font-size: 30px;
   width: 45vw;
+<<<<<<< HEAD
+=======
   text-shadow: -4px -3px 2px #C3C4C3;
 }
 #title1{
   color:#00BCCC;
   text-shadow: 2px -3px 2px blue;
+>>>>>>> cc9af377cf15aba41ce2775c59a7147ac26dd8ab
 }
 li{
   display:inline-block;
   margin: 10px;
 }
+<<<<<<< HEAD
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #225;
+=======
 .links{
   display: flex;
   font-family: 'Arimo', sans-serif;
+>>>>>>> cc9af377cf15aba41ce2775c59a7147ac26dd8ab
 }
